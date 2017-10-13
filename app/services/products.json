@@ -1,0 +1,10 @@
+{
+    "Product": [
+        {
+            "id": "0", 
+            "title": "galaxy 7", 
+            "price": 249.99, 
+            "description": "The latest galaxy, 7-inch screen"
+        }
+    ]
+}
